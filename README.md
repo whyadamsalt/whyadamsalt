@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**whyadamsalt/whyadamsalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adam! I'm a 16 year old programmer from the United Kingdom and Founder of [Cob:web Development](https://github.com/cobweb-development/)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [Whittr](https://cob-web.xyz/whittr/) and [CelOS](https://cob-web.xyz/celos/)
+- I know: HTML, CSS, Bash, JavaScript
+- 🌱 I’m currently learning: Python, C#
+- 💬 Ask me about anything!
+- 📫 How to reach me: You can join the Cob:web Development Discord [here](https://cob-web.xyz/discord/)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: In my freetime I like to hang out with friends, skateboard, code or just chatting on Discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My website:
+#### Here is [my website!](https://cob-web.xyz/)
+
