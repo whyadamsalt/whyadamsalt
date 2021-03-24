@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adam! I'm a 16 year old programmer from the United Kingdom and Founder of [Cob:web Development](https://github.com/cobweb-development/)
+I'm Adam! I'm a 16 year old programmer from the United Kingdom and founder of [Cob:web Development](https://github.com/cobweb-development/)
 
 - 🔭 I’m currently working on: [Whittr](https://cob-web.xyz/whittr/) and [CelOS](https://cob-web.xyz/celos/)
 - 🧠 I know: HTML, CSS, JavaScript, Python, Bash, Visual Basic
