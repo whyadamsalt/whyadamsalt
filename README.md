@@ -13,3 +13,4 @@ I'm Adam! I'm a 16 year old programmer from the United Kingdom and founder of [C
 # My website:
 #### Here is [my website!](https://cob-web.xyz/)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyadamsalt)
