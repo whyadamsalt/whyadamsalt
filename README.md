@@ -11,7 +11,7 @@ I'm Adam! I'm a 16 year old programmer from the United Kingdom and founder of [C
 - ⚡ Fun fact: In my freetime I like to hang out with friends, skateboard, code or just chatting on Discord
 
 # My website:
-### Here is [my website!](https://cob-web.xyz/)
+### Here is [my website!](https://whyadamsalt.github.io/)
 
 # GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyadamsalt)
