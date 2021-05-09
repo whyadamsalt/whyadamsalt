@@ -4,7 +4,7 @@ I'm Adam! I'm a 16 year old programmer from the United Kingdom and founder of [C
 
 - 🔭 I’m currently working on: [Whittr](https://cob-web.xyz/whittr/) and [CelOS](https://cob-web.xyz/celos/), however I manage all of the [Cob:web projects](https://github.com/cobweb-development/)
 - 🧠 I know: HTML, CSS, JavaScript, Python, Bash, Visual Basic
-- 🌱 I’m currently learning: More Python, C#
+- 🌱 I’m currently learning: More Python, C# and Rust
 - 💬 Ask me about anything!
 - 📫 How to reach me: You can join the Cob:web Development Discord [here](https://cob-web.xyz/discord/)
 - 😄 Pronouns: He/him
