@@ -10,7 +10,7 @@ I'm Adam! I'm a 16 year old programmer from the United Kingdom and co-founder of
 - ⚡ Fun fact: In my freetime I like to hang out with friends, skateboard, code or just chatting on Discord & Matrix
 
 # Tools & Languages:
-<a href="https://celos.cobweb-aclevo.org" target="_blank"><code><img src="https://celos.cobweb-aclevo.org/images/CelOS.png" width="40"></code></a>
+<a href="https://celos.cobweb-aclevo.org" target="_blank"><code><img src="https://celos.cobweb-aclevo.org/assets/CelOS.png" width="40"></code></a>
 <a href="https://gnome.org" target="_blank"><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gnomelogo.svg/1687px-Gnomelogo.svg.png" width="40"></code></a>
 <a href="" target="_blank"><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="40"></code></a>
 <a href="" target="_blank"><code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="28"></code></a>
