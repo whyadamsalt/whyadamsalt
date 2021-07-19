@@ -2,7 +2,7 @@
 
 I'm Adam! I'm a 16 year old programmer from the United Kingdom and co-founder of [The Cob:web-Aclevo group](https://github.com/cobweb-aclevo/)
 
-- 🔭 I am currently the Lead Developer of [CelOS](https://celos.cobweb-aclevo.org), and I manage all of the projects and websites for [Cob:web-Aclevo](https://github.com/cobweb-aclevo/))
+- 🔭 I am currently the Lead Developer of [CelOS](https://celos.cobweb-aclevo.org) (and I manage all of the projects and websites for [Cob:web-Aclevo](https://github.com/cobweb-aclevo/))
 - 🧠 I know: HTML, CSS, JavaScript, Python, Bash, Visual Basic
 - 🌱 I’m currently learning: More Python, C# and Rust
 - 📫 How to reach me: You can reach me [here!](https://cobweb-aclevo.org/contact.html)
