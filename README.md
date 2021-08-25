@@ -2,6 +2,7 @@
 
 I'm Adam! I'm a 16 year old programmer from the United Kingdom and co-founder of [The Cob:web-Aclevo group](https://github.com/cobweb-aclevo/)
 
+- This is my website: https://whyadamsalt.xyz/
 - 🔭 I am currently the Lead Developer of [CelOS](https://celos.cobweb-aclevo.org) (and I manage all of the projects and websites for [Cob:web-Aclevo](https://github.com/cobweb-aclevo/))
 - 🧠 I know: HTML, CSS, JavaScript, Python, Bash, Visual Basic
 - 🌱 I’m currently learning: More Python, C# and Rust
@@ -19,9 +20,8 @@ I'm Adam! I'm a 16 year old programmer from the United Kingdom and co-founder of
 <a href="https://www.gnu.org/software/bash/" target="_blank"><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="40"></code></a>
 
 
-
 # My website and blogs:
-### Here is [my website!](https://whyadamsalt.github.io/)
+### Here is [my website!](https://whyadamsalt.xyz/)
 
 # GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyadamsalt)
